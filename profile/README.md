@@ -1,4 +1,4 @@
-![LOGO](https://github.com/ClusterDuck-Protocol/.github/blob/main/profile/CDP_LOGO_small.png)
+![LOGO](https://github.com/ClusterDuck-Protocol/.github/blob/main/profile/cdp_logo_white_bkg.png)
 
 # Welcome to the ClusterDuck Protocol!
 
